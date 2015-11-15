@@ -4,11 +4,14 @@
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nf start"
   },
   "dependencies": {
     "ejs": "2.3.3",
     "express": "4.13.3",
+    "foreman": "^1.4.1",
+    "kerberos": "0.0.17",
+    "mongodb": "^2.0.48",
     "mongoose": "^4.2.5"
   },
   "engines": {
@@ -23,9 +26,5 @@
     "heroku",
     "express"
   ],
-  "license": "MIT",
-  "devDependencies": {
-    "ejs": "^2.3.3",
-    "express": "^4.13.3"
-  }
+  "license": "MIT"
 }
