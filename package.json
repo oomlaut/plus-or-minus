@@ -23,5 +23,9 @@
     "heroku",
     "express"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.13.3"
+  }
 }
