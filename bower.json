@@ -1,0 +1,27 @@
+{
+  "name": "plus-or-minus",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
+  "authors": [
+    "Paul Gueller <paul.gueller@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "homepage": "https://github.com/oomlaut/plus-or-minus",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skeleton": "~2.0.4"
+  }
+}
